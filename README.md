@@ -13,6 +13,4 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 📌 Link to Dataset: https://lnkd.in/gqVJ-3nm
 
-Now I am pretty much familiar with Regression and Classification Problems, So It is Project Time.
-
-Initially there will be some Basic Projects to get a Hands On with the Code and Machine Learning Understanding, After that there will be Some Real World Based Projects which will be Available on My Kaggle, LinkedIn and GitHub.
+🚢🚢🚢
