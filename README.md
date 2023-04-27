@@ -1,4 +1,5 @@
 # Titanic Survival Prediction using Logistic Regression
+![Your-Guide-to-Getting-Started-with-Kaggle-Competitions-Featured-image](https://user-images.githubusercontent.com/123563634/234851718-1039fc64-57a2-4a1e-bcf4-51409e8e5067.jpg)
 
 🛳 TITANIC SURVIVAL PREDICTION USING LOGISTIC REGRESSION 🛳
 
