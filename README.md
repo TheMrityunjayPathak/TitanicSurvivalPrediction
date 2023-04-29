@@ -55,4 +55,4 @@ I used Logistic Regression for this Problem as here we have to classify the Surv
 
 - And Finally I predicted the Result from our Trained Model.
 
-📌 **Link to Kaggle Notebook:** https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction
+📌 **Link to Notebook:** https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction
