@@ -1,5 +1,3 @@
-# Titanic Survival Prediction using Logistic Regression
-
 👉 **The Challenge**
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -19,7 +17,7 @@ Here is My Classification Project based on Predicting Survival of Passenger usin
 
 I used Titanic Dataset avaliable on Kaggle.
 
-📌 **Link to Dataset:** https://www.kaggle.com/competitions/titanic/data?select=test.csv
+📍**Link to Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
 
 - **Steps involved in the Project**
 
@@ -55,4 +53,4 @@ I used Logistic Regression for this Problem as here we have to classify the Surv
 
 - And Finally I predicted the Result from our Trained Model.
 
-📌 **Link to Notebook:** https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction
+📍**Link to Notebook :** [Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
