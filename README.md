@@ -7,7 +7,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-**TITANIC SURVIVAL PREDICTION USING LOGISTIC REGRESSION**
+**Titanic Survival Prediction using Logistic Regression**
 
 Hello Everyone, 👋 
 
