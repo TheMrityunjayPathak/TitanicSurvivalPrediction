@@ -1,4 +1,4 @@
-👉 **The Challenge**
+🎯 **The Challenge**
 
 - The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -10,7 +10,7 @@
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-👉 **Titanic Survival Prediction using Logistic Regression**
+🛳️ **Titanic Survival Prediction using Logistic Regression**
 
 Hello Everyone, 👋 
 
