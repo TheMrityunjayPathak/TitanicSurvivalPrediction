@@ -24,7 +24,7 @@ Here is My Classification Project based on Predicting Survival of Passenger usin
 
 I used Titanic Dataset avaliable on Kaggle.
 
-📍**Link to Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
+📍**Link to the Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
 
 ----------------------------------------
 
@@ -108,4 +108,4 @@ I used Logistic Regression for this Problem as here we have to classify the Surv
 
 ---------------------------------------
 
-📍**Link to Notebook :** [Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
+📍**Link to the Notebook :** [Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
