@@ -10,19 +10,69 @@
 
 In this challenge, we have to build a predictive model that answers the question : “what sorts of people were more likely to survive?” using Passenger Data.
 
+-------------------------------------
+
 🛳️ **Titanic Survival Prediction using Logistic Regression**
 
 Hello Everyone, 👋 
 
 Here is My Classification Project based on Predicting Survival of Passenger using Logistic Regression.
 
-- **Dataset**
+----------------------------------------
+
+🔸**Dataset**
 
 I used Titanic Dataset avaliable on Kaggle.
 
 📍**Link to Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
 
-- **Steps involved in the Project**
+----------------------------------------
+
+🌐 **Setting up the Enviroment**
+
+Jupyter Notebook is required for this project and you can install and set it up in the terminal.
+
+Install the Notebook - `pip install notebook`
+
+Run the Notebook - `jupyter notebook`
+
+------------------------------------------
+
+🗃️ **Libraries required for Project**
+
+🔸**NumPy**
+
+- Go to Terminal and run this code - `pip install numpy`
+
+- Go to Jupyter Notebook and run this code from a cell - `!pip install numpy`
+
+🔸**Pandas**
+
+- Go to Terminal and run this code - `pip install pandas`
+
+- Go to Jupyter Notebook and run this code from a cell - `!pip install pandas`
+
+🔸**Matplotlib**
+
+- Go to Terminal and run this code - `pip install matplotlib`
+
+- Go to Jupyter Notebook and run this code from a cell - `!pip install matplotlib`
+
+🔸**Seaborn**
+
+- Go to Terminal and run this code - `pip install seaborn`
+
+- Go to Jupyter Notebook and run this code from a cell - `!pip install seaborn`
+
+🔸**Sklearn**
+
+- Go to Terminal and run this code - `pip install sklearn`
+
+- Go to Jupyter Notebook and run this code from a cell - `!pip install sklearn`
+
+--------------------------------------------
+
+📝 **Steps involved in the Project**
 
 1️⃣ **Data Cleaning**
 
@@ -55,5 +105,7 @@ I used Logistic Regression for this Problem as here we have to classify the Surv
 - Then I fit the Model with X_train and y_train and checked the Score.
 
 - And Finally I predicted the Result from our Trained Model.
+
+---------------------------------------
 
 📍**Link to Notebook :** [Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
