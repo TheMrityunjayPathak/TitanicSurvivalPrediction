@@ -20,11 +20,11 @@ Here is My Classification Project based on Predicting Survival of Passengers usi
 
 ----------------------------------------
 
-🔸**Dataset**
+🔸 **Dataset**
 
 I used Titanic Dataset avaliable on Kaggle.
 
-📍**Link to the Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
+📍 **Link to the Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
 
 ----------------------------------------
 
@@ -38,33 +38,33 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 ------------------------------------------
 
-🗃️ **Libraries required for Project**
+🗃️ **Libraries required for the Project**
 
-🔸**NumPy**
+🔸 **NumPy**
 
 > Go to Terminal and run this code - `pip install numpy`
 
 > Go to Jupyter Notebook and run this code from a cell - `!pip install numpy`
 
-🔸**Pandas**
+🔸 **Pandas**
 
 > Go to Terminal and run this code - `pip install pandas`
 
 > Go to Jupyter Notebook and run this code from a cell - `!pip install pandas`
 
-🔸**Matplotlib**
+🔸 **Matplotlib**
 
 > Go to Terminal and run this code - `pip install matplotlib`
 
 > Go to Jupyter Notebook and run this code from a cell - `!pip install matplotlib`
 
-🔸**Seaborn**
+🔸 **Seaborn**
 
 > Go to Terminal and run this code - `pip install seaborn`
 
 > Go to Jupyter Notebook and run this code from a cell - `!pip install seaborn`
 
-🔸**Sklearn**
+🔸 **Sklearn**
 
 > Go to Terminal and run this code - `pip install sklearn`
 
@@ -112,4 +112,4 @@ I used Logistic Regression for this Problem as here we have to classify the Surv
 
 ---------------------------------------
 
-📍**Link to the Notebook :** [Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
+📍 **Link to the Notebook :** [Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
