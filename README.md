@@ -16,7 +16,7 @@ In this challenge, we have to build a predictive model that answers the question
 
 Hello Everyone, 👋 
 
-Here is My Classification Project based on Predicting Survival of Passenger using Logistic Regression.
+Here is My Classification Project based on Predicting Survival of Passengers using Logistic Regression.
 
 ----------------------------------------
 
@@ -76,7 +76,7 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 1️⃣ **Data Cleaning**
 
-Data Cleaning involves cleaning Different Columns of Dataset and removing anomalies present in the Dataset.
+Data Cleaning involves cleaning Different Columns of Dataset and removing anomalies present in them.
 
 - Removing Null Values in the Age Columns and replacing them with Mean Age by using fillna().mean().
 
@@ -98,11 +98,11 @@ Data Visualization involves visualizing Different Columns of Dataset and finding
 
 I used Logistic Regression for this Problem as here we have to classify the Survival of Passengers.
 
-- Firstly I have definied Dependent and Independent Variables for our Traning and Testing.
+- Firstly I have created Dependent and Independent Variables for our Traning and Testing.
 
-- I have splitted data into Traning and Testing by using Train Test Split.
+- I have splitted data into Traning and Testing Set by using Train Test Split.
 
-- Then I fit the Model with X_train and y_train and checked the Score.
+- Then I Trained the Model with X_train and y_train and checked the Score.
 
 - And Finally I predicted the Result from our Trained Model.
 
