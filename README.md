@@ -72,6 +72,14 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 --------------------------------------------
 
+## Getting Started
+
+- Clone the repository to your local machine using the following command :
+```
+git clone https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction.git
+```
+--------------------------------------------
+
 📝 **Steps involved in the Project**
 
 1️⃣ **Data Cleaning**
