@@ -1,4 +1,16 @@
-🎯 **The Challenge**
+## Titanic Survival Prediction using Logistic Regression
+
+Hello Everyone,
+
+Here is My Classification Project based on Predicting Survival of Passengers using Logistic Regression.
+
+## Dataset
+
+I used Titanic Dataset avaliable on Kaggle.
+
+**Link to the Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
+
+## Problem Statement
 
 - The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -8,27 +20,18 @@
 
 - While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
-In this challenge, we have to build a predictive model that answers the question : “what sorts of people were more likely to survive?” using Passenger Data.
+- In this challenge, we have to build a predictive model that answers the question : “what sorts of people were more likely to survive?” using Passenger Data.
 
--------------------------------------
+## Table of Contents
 
-🛳️ **Titanic Survival Prediction using Logistic Regression**
+- [Setting up the Enviroment](#setting-up-the-enviroment)
+- [Libraries required for the Project](#libraries-required-for-the-project)
+- [Getting started with Repository](#getting-started)
+- [Steps involved in the Project](#steps-involved-in-the-project)
+- [Conclusion](#conclusion)
+- [Link to the Notebook](#link-to-the-notebook)
 
-Hello Everyone, 👋 
-
-Here is My Classification Project based on Predicting Survival of Passengers using Logistic Regression.
-
-----------------------------------------
-
-🔸 **Dataset**
-
-I used Titanic Dataset avaliable on Kaggle.
-
-📍 **Link to the Dataset :** [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
-
-----------------------------------------
-
-🌐 **Setting up the Enviroment**
+## Setting up the Enviroment
 
 Jupyter Notebook is required for this project and you can install and set it up in the terminal.
 
@@ -36,41 +39,37 @@ Jupyter Notebook is required for this project and you can install and set it up 
 
 - Run the Notebook - `jupyter notebook`
 
-------------------------------------------
+## Libraries required for the Project
 
-🗃️ **Libraries required for the Project**
-
-🔸 **NumPy**
+**NumPy**
 
 - Go to Terminal and run this code - `pip install numpy`
 
 - Go to Jupyter Notebook and run this code from a cell - `!pip install numpy`
 
-🔸 **Pandas**
+**Pandas**
 
 - Go to Terminal and run this code - `pip install pandas`
 
 - Go to Jupyter Notebook and run this code from a cell - `!pip install pandas`
 
-🔸 **Matplotlib**
+**Matplotlib**
 
 - Go to Terminal and run this code - `pip install matplotlib`
 
 - Go to Jupyter Notebook and run this code from a cell - `!pip install matplotlib`
 
-🔸 **Seaborn**
+**Seaborn**
 
 - Go to Terminal and run this code - `pip install seaborn`
 
 - Go to Jupyter Notebook and run this code from a cell - `!pip install seaborn`
 
-🔸 **Sklearn**
+**Sklearn**
 
 - Go to Terminal and run this code - `pip install sklearn`
 
 - Go to Jupyter Notebook and run this code from a cell - `!pip install sklearn`
-
---------------------------------------------
 
 ## Getting Started
 
@@ -78,13 +77,10 @@ Jupyter Notebook is required for this project and you can install and set it up 
 ```
 git clone https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction.git
 ```
---------------------------------------------
 
-📝 **Steps involved in the Project**
+## Steps involved in the Project
 
-1️⃣ **Data Cleaning**
-
-Data Cleaning involves cleaning Different Columns of Dataset and removing anomalies present in them.
+**Data Cleaning**
 
 - Removing Null Values in the Age Columns and replacing them with Mean Age by using fillna().mean().
 
@@ -94,9 +90,7 @@ Data Cleaning involves cleaning Different Columns of Dataset and removing anomal
 
 - Creating Dummies Value for Sex Column and Converting it into a DataFrame and Concatenating it with Orignal DataFrame.
 
-2️⃣ **Data Visualization**
-
-Data Visualization involves visualizing Different Columns of Dataset and finding Relationship among them.
+**Data Visualization**
 
 - Visualizing Number of People Survived and Not Survived by their Gender using sns.countplot().
 
@@ -106,11 +100,9 @@ Data Visualization involves visualizing Different Columns of Dataset and finding
 
 ![download](https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction/assets/123563634/cd218922-c0be-42f7-b50c-f5a1bea32ba5)
 
-3️⃣ **Model Building**
+**Model Building**
 
-I used Logistic Regression for this Problem as here we have to classify the Survival of Passengers.
-
-- Firstly I have created Dependent and Independent Variables for our Traning and Testing.
+- Firstly I have defined Dependent and Independent Variables for our Traning and Testing.
 
 - I have splitted data into Traning and Testing Set by using Train Test Split.
 
@@ -118,6 +110,13 @@ I used Logistic Regression for this Problem as here we have to classify the Surv
 
 - And Finally I predicted the Result from our Trained Model.
 
----------------------------------------
+## Conclusion
 
-📍 **Link to the Notebook :** [Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
+- In conclusion, the Titanic Survival Prediction Project was an exciting endeavor where we applied logistic regression to predict the survival of passengers aboard the Titanic.
+
+- Our model achieved a score of 0.79, indicating a reasonably good level of accuracy in predicting survival outcomes.
+
+- Utilizing logistic regression as our chosen algorithm, we built a robust predictive model. Logistic regression allowed us to model the binary nature of the target variable survival or non-survival based on the selected features.
+
+## Link to the Notebook
+[Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
