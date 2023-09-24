@@ -1,4 +1,4 @@
-## Titanic Survival Prediction using Logistic Regression
+## Titanic Survival Prediction
 
 Hello Everyone,
 
@@ -119,4 +119,4 @@ git clone https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction.git
 - Utilizing logistic regression as our chosen algorithm, we built a robust predictive model. Logistic regression allowed us to model the binary nature of the target variable survival or non-survival based on the selected features.
 
 ## Link to the Notebook
-[Titanic Survival Prediction using Logistic Regression](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
+[Titanic Survival Prediction](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
