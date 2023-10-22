@@ -120,3 +120,6 @@ git clone https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction.git
 
 ## Link to the Notebook
 [Titanic Survival Prediction](https://www.kaggle.com/code/themrityunjaypathak/titanic-survival-prediction)
+
+| [Scroll to Top ⬆️](#titanic-survival-prediction) |
+|:---:|
