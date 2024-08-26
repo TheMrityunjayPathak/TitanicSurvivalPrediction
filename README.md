@@ -92,11 +92,11 @@ git clone https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction.git
 
 **Data Visualization**
 
-- Visualizing Number of People Survived and Not Survived by their Gender using sns.countplot().
+- Visualizing Number of People Survived and Not Survived by their Gender using sns.countplot()
 
 ![download](https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction/assets/123563634/9e955743-52d5-4655-9a81-97421e7ddd84)
 
-- Visualizing Number of People's present in Different Age Group by using sns.histplot().
+- Visualizing Number of People's present in Different Age Group by using sns.histplot()
 
 ![download](https://github.com/TheMrityunjayPathak/TitanicSurvivalPrediction/assets/123563634/cd218922-c0be-42f7-b50c-f5a1bea32ba5)
 
